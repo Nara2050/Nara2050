@@ -1,2 +1,2 @@
-# :rainbow: Olá, mundo!
+# :rainbow: Hello, Devs!
 ##  Meu nome é Nara, sou formada em Comunicação Social - Jornalismo, e estou em transição de carreira; estudando automação de testes.
