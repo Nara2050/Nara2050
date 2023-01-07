@@ -6,4 +6,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nara2050&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+  #### - Estou em um encantador estado de confusão.  (Ada Lovelace)
+  
 
