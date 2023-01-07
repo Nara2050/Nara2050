@@ -8,6 +8,6 @@
 
   #### - Estou em um encantador estado de confusão.  (Ada Lovelace)
   
-  ![Snake animation](https://github.com/nara2050/nara2050/blob/output/github-contribution-grid-snake.svg)
+  
   
 
