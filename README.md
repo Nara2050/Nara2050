@@ -7,8 +7,6 @@
 </div>
 
   #### - Estou em um encantador estado de confusão.  (Ada Lovelace)
-  
-  
-  ![octocat-1672811773984](https://user-images.githubusercontent.com/118581846/212447620-d9e4d124-8993-4ca3-8de7-55ddbbb2a4e4.png)
+ 
 
 
